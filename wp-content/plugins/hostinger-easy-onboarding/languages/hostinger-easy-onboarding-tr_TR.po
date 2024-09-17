@@ -1,0 +1,843 @@
+# #-#-#-#-#  hostinger-easy-onboarding.po (Hostinger Easy Onboarding 1.0.0)  #-#-#-#-#
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Easy Onboarding 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-easy-"
+"onboarding\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Türkçe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-06T11:48:04+00:00\n"
+"PO-Revision-Date: 2024-05-09 13:06+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-easy-onboarding\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:19
+msgid "Access the Site identity and edit title"
+msgstr "Site kimliğine giderek başlığı düzenleyin"
+
+#: includes/Errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr ""
+"İşlem Başarısız Oldu. Lütfen tekrar deneyim veya destekle iletişime geçin. "
+"Özür dileriz."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:49
+msgid "Add a gallery block"
+msgstr "Galeri blogu ekle"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:19
+#: includes/Admin/Onboarding/Steps/AddPage.php:60
+msgid "Add a new page"
+msgstr "Yeni sayfa ekle"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:64
+msgid "Add a title"
+msgstr "Başlık ekle"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:68
+msgid "Add content"
+msgstr "İçerik ekle"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:20
+msgid "Add products"
+msgstr "Ürün ekle"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:29
+msgid "Add tax rates (if needed)"
+msgstr "Vergi oranlarını ekleyin (gerekliyse)"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:34
+msgid "Add the content and images that represent your services"
+msgstr "Sunulan hizmetleri temsil eden içerik ve görseller ekle"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:65
+msgid ""
+"Add the title of the page, for example, About. Click the Add Title text to "
+"open the text box where you will add your title. The title of your page "
+"should be descriptive of the information the page will have."
+msgstr ""
+"Sayfa başlığı ekleyin. Örneğin Hakkında. Başlığınızı ekleyeceğiniz metin "
+"kutusunu açmak için Başlık Ekle metnine tıklayın. Sayfanızın başlığı, "
+"sayfadaki bilgileri açıklamalıdır."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:16
+#| msgid ""
+#| "Adding a logo is a great way to personalize a website or add branding "
+#| "information. You can use your existing logo or create a new one using the "
+#| "<a href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+#| "target=\"_blank\">Ai Logo Maker</a>."
+msgid ""
+"Adding a logo is a great way to personalize a website or add branding "
+"information. You can use your existing logo or create a new one using the <a "
+"href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+"target=\"_blank\">AI Logo Maker</a>."
+msgstr ""
+"Logo eklemek, bir web sitesini kişiselleştirmenin veya marka bilgileri "
+"eklemenin en iyi yoludur. <a href=\"https://logo.hostinger.com/?"
+"ref=wordpress-onboarding\" target=\"_blank\">Yapay Zekalı Logo Yapma "
+"Aracı</a>'nı kullanarak mevcut logonuzu ekleyebilir veya yeni bir logo "
+"oluşturabilirsiniz."
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:32
+msgid "Advertising configuration (if needed)"
+msgstr "Reklam yapılandırması (gerekirse)"
+
+#: includes/Admin/Menu.php:55 includes/Admin/Menu.php:56
+msgid "AI Content Creator"
+msgstr "YZ İçerik Oluşturucu"
+
+#: includes/Errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr ""
+"Beklenmedik bir hata oluştu. Lütfen tekrar deneyin veya destek ekibiyle "
+"iletişime geçin."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:73
+msgid ""
+"Before publishing, you can preview your created page by clicking on the "
+"Preview button. If you are happy with the result, click the Publish button."
+msgstr ""
+"Yayınlamadan önce Önizle düğmesine tıklayarak oluşturduğunuz sayfayı "
+"önizleyebilirsiniz. Sonuçtan memnun kalırsanız Yayınla düğmesine tıklayın."
+
+#: includes/Admin/Menu.php:96
+msgid "Billings"
+msgstr "Faturalar"
+
+#: includes/Admin/Views/GetStarted.php:197
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:31
+msgid ""
+"Come up with a clear and concise name for the page that accurately reflects "
+"the services you provide."
+msgstr ""
+"Sayfanız için sağladığınız hizmetleri doğru şekilde yansıtan net ve kısa bir "
+"ad bulun."
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:30
+msgid ""
+"Complete the form with required information related to Amazon's partnership "
+"API. Retrieve all this information from the <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Amazon Product Advertising dashboard</a> and paste it into "
+"the form."
+msgstr ""
+"Formu Amazon'un ortaklık API'sine ilişkin gerekli bilgilerle doldurun. Tüm "
+"bu bilgileri <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Ürün "
+"Reklamcılığı kontrol panelinden</a> alın ve forma yapıştırın."
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:17
+msgid ""
+"Complete this following steps to set up your online store. Don't worry, "
+"WooCommerce will help you to finish the steps."
+msgstr ""
+"Online mağazanızı kurmak için aşağıdaki adımları tamamlayın. Endişelenmeyin, "
+"WooCommerce adımları tamamlamanıza yardımcı olacaktır."
+
+#: includes/Admin/Views/GetStarted.php:338
+msgid ""
+"Congratulations for finishing your hosting set-up and make your website "
+"online! Here are the steps that you can do after setting up your hosting "
+"plan."
+msgstr ""
+"Hosting kurulumunuzu tamamladığınız ve web sitenizi çevrimiçi hale "
+"getirdiğiniz için tebrikler! İşte hosting planınızı kurduktan sonra "
+"yapabileceğiniz adımlar."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:44
+msgid "Connect Amazon Account"
+msgstr "Amazon Hesabını Bağla"
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:12
+msgid "Connect Amazon partnership account"
+msgstr "Amazon ortaklık hesabını bağlayın"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:136
+msgid "Connect domain now"
+msgstr "Şimdi alan adınızı bağlayın"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:14
+msgid "Connect your domain"
+msgstr "Alan adınızı bağlayın"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:24
+msgid "Connect your domain to Hostinger"
+msgstr "Alan adınızı Hostinger'a bağlayın"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:69
+msgid ""
+"Content can be anything you wish, for example, text, images, videos, tables, "
+"and lots more. Click on a plus sign and choose any block you want to add to "
+"the page."
+msgstr ""
+"İçerik, metin, görseller, videolar, tablolar gibi dilediğiniz herhangi bir "
+"şey olabilir. Artı işaretine tıklayın ve sayfaya eklemek istediğiniz bloğu "
+"seçin."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:28
+msgid "Copy-Paste the necessary information:"
+msgstr "Gerekli bilgileri kopyalayıp yapıştırın:"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:15
+msgid "Create a catchy headline"
+msgstr "Dikkat çekici bir manşet yazın"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:16
+msgid ""
+"Create a headline that grabs your visitors attention and accurately "
+"represents the content of your post."
+msgstr ""
+"Ziyaretçilerinizin dikkatini çekecek ve yayınınızın içeriğini doğru bir "
+"şekilde temsil eden bir manşet oluşturun."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:15
+msgid "Create a logo"
+msgstr "Bir logo oluştur"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:45
+msgid "Create a new page called “My projects”"
+msgstr "“Projelerim” adında yeni bir sayfa oluşturun"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:15
+msgid "Create a page describing your services"
+msgstr "Hizmetlerinizi açıklayan bir sayfa oluşturun"
+
+#: includes/Admin/Menu.php:106
+msgid "Create content with AI"
+msgstr "Yapay zeka ile içerik oluşturun"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:9
+msgid "Create your first blog post"
+msgstr "İlk blog yazınızı oluşturun"
+
+#: includes/Admin/Views/GetStarted.php:377
+msgid "Customize my website"
+msgstr "Web sitemi özelleştirin"
+
+#: includes/Admin/Views/GetStarted.php:380
+msgid ""
+"Customize the visual and technical aspects of your website – personalize "
+"themes, explore plugins, or preview your website. Don’t worry, we will help "
+"you by giving the step-by-step tutorial to do it."
+msgstr ""
+"Web sitenizin görsel ve teknik yönlerini özelleştirin - temaları "
+"kişiselleştirin, eklentileri keşfedin veya web sitenizi önizleyin. "
+"Endişelenmeyin, bunu yapmak için adım adım öğretici vererek size yardımcı "
+"olacağız."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:46
+msgid "domain name searcher."
+msgstr "Domain sorgulama."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:29
+msgid ""
+"Domain propagation can take up to 24 hours. Your domain will propagate "
+"automatically, and you don't need to take any action during this time."
+msgstr ""
+"Alan adının yayılması 24 saate kadar sürebilir. Bu işlem otomatik olarak "
+"gerçekleştirilecektir ve bu süre zarfında herhangi bir işlem yapmanıza gerek "
+"yoktur."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:19
+msgid "Draft your post"
+msgstr "Yazınızın taslağını oluşturun"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:23
+msgid "Edit an image"
+msgstr "Bir görseli düzenleyin"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:31
+msgid "Edit description"
+msgstr "Açıklamayı düzenle"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:27
+msgid "Edit post"
+msgstr "Yazıyı düzenle"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:17
+msgid "Edit post description"
+msgstr "Yazı açıklamasını düzenle"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:9
+msgid "Edit site title"
+msgstr "Site başlığını düzenle"
+
+#. translators: %s: link to plugin page
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:25
+msgid ""
+"Fill in the required details on the <a href=\"%s\" class=\"hst-open-"
+"affiliate-tab\">Amazon Affiliate plugin page</a>, where you'll find all the "
+"necessary information about the plugin."
+msgstr ""
+"Eklenti hakkında gerekli tüm bilgileri bulabileceğiniz <a href=\"%s\" "
+"class=\"hst-open-affiliate-tab\">Amazon Satış Ortaklığı eklentisi </a>"
+"sayfasındaki gerekli ayrıntıları doldurun."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:38
+msgid "Finalize the page"
+msgstr "Sayfayı sonlandır"
+
+#: includes/Admin/Views/GetStarted.php:276 includes/Admin/Views/Learn.php:126
+msgid "Find the answers you need in our Knowledge Base"
+msgstr "Bilgi Tabanımızda ihtiyacınız olan yanıtları bulabilirsiniz"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:15
+msgid "Find the Media page"
+msgstr "Medya sayfasını bul"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:20
+msgid "Get a domain"
+msgstr "Bir alan adı al"
+
+#: includes/Admin/Hooks.php:80
+msgid "Get Discount"
+msgstr "İndirim Al"
+
+#: includes/Admin/Views/GetStarted.php:287 includes/Admin/Views/Learn.php:137
+msgid "Get in touch with our live specialists"
+msgstr "Canlı destek veren uzmanlarımızla irtibat kurun"
+
+#: includes/Admin/Menu.php:34 includes/Admin/Menu.php:35
+#: includes/Admin/Menu.php:123 includes/Admin/Menu.php:124
+#| msgid "Get Started"
+msgid "Get started"
+msgstr "Şimdi Başla"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:30
+msgid "Give a page a short title such as “Our Services”"
+msgstr "Bir sayfaya “Hizmetlerimiz” gibi kısa bir başlık koyun"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:46
+msgid ""
+"Give your page a name (e.g. \"My Portfolio\"), then click the \"+\" button "
+"in the editor to add a new block."
+msgstr ""
+"Sayfanıza bir ad verin (örneğin \"Portfolyom\"), ardından yeni bir blok "
+"eklemek için düzenleyicideki \"+\" düğmesine tıklayın."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:23
+msgid "Go to Posts"
+msgstr "Yazılar'a Git"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:15
+#: includes/Admin/Onboarding/Steps/AddLogo.php:19
+msgid "Go to the Customize page"
+msgstr "Özelleştir sayfasına git"
+
+#: includes/Admin/Views/GetStarted.php:127
+msgid "Got it!"
+msgstr "Anladım!"
+
+#: includes/Admin/Views/GetStarted.php:286 includes/Admin/Views/Learn.php:136
+msgid "Help Center"
+msgstr "Yardım Merkezi"
+
+#. Author of the plugin
+#: includes/Admin/Menu.php:23 includes/Admin/Menu.php:24
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#: includes/Admin/Views/GetStarted.php:213 includes/Admin/Views/Learn.php:63
+msgid "Hostinger Academy"
+msgstr "Hostinger Academy"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Menu.php:80
+msgid "Hostinger Easy Onboarding"
+msgstr "Hostinger Kolay Başlangıç"
+
+#. Description of the plugin
+msgid "Hostinger Easy Onboarding WordPress plugin."
+msgstr "Hostinger Kolay Başlangıç WordPress eklentisi."
+
+#: includes/Admin/Views/GetStarted.php:400
+msgid "hostinger-easy-onboarding"
+msgstr "hostinger-kolay-baslangic"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:28
+msgid ""
+"Hover over the chosen post to see the options menu. Click on the Edit button "
+"to open the post editor."
+msgstr ""
+"Seçenekler menüsünü görmek için seçilen gönderinin üzerine gelin. Gönderi "
+"düzenleyiciyi açmak için Düzenle düğmesine tıklayın."
+
+#: includes/Admin/Views/GetStarted.php:23
+#: includes/Admin/Views/GetStarted.php:234 includes/Admin/Views/Learn.php:8
+#: includes/Admin/Views/Learn.php:84
+msgid "How to Add Your WordPress Website to Google Search Console"
+msgstr "WordPress Web Siteniz Google Search Console'a Nasıl Eklenir?"
+
+#: includes/Admin/Views/GetStarted.php:48 includes/Admin/Views/Learn.php:33
+msgid "How to Back Up a WordPress Site"
+msgstr "WordPress Sitesi Nasıl Yedeklenir"
+
+#: includes/Admin/Views/GetStarted.php:33 includes/Admin/Views/Learn.php:18
+msgid "How to Clear Cache in WordPress Website"
+msgstr "WordPress Sitesinde Önbellek Nasıl Temizlenir"
+
+#: includes/Admin/Views/GetStarted.php:28 includes/Admin/Views/Learn.php:13
+msgid "How to Create a WordPress Contact Us Page"
+msgstr "WordPress İletişim Sayfası Nasıl Oluşturulur"
+
+#: includes/Admin/Views/GetStarted.php:38 includes/Admin/Views/Learn.php:23
+msgid "How to Edit the Footer in WordPress"
+msgstr "WordPress'te Alt Bilgi Nasıl Düzenlenir"
+
+#: includes/Admin/Views/GetStarted.php:53 includes/Admin/Views/Learn.php:38
+msgid "How to Import Images Into WordPress Website"
+msgstr "WordPress Web Sitesine Görseller Nasıl Taşınır?"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:92
+msgid "How to Point Domain Name to Web Hosting"
+msgstr "Bir Alan Adı Web Hostinge Nasıl Yönlendirilir?"
+
+#: includes/Admin/Views/GetStarted.php:58 includes/Admin/Views/Learn.php:43
+msgid "How to Set Up WordPress SMTP"
+msgstr "WordPress SMTP Nasıl Kurulur"
+
+#. Plugin URI of the plugin
+msgid "https://hostinger.com"
+msgstr ""
+"https://hostinger.com.tr\n"
+
+#. Author URI of the plugin
+msgid "https://www.hostinger.com"
+msgstr "https://www.hostinger.com.tr"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:24
+msgid ""
+"If you wish to edit the image, click on the chosen image and click the Edit "
+"Image button. You can now crop, rotate, flip or scale the selected image."
+msgstr ""
+"Eğer görseli düzenlemek istiyorsanız seçilen görselin üzerine tıklayıp "
+"Görseli Düzenle düğmesine tıklayın. Artık seçili görseli kırpabilir, "
+"döndürebilir, çevirebilir veya ölçeklendirebilirsiniz."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:50
+msgid ""
+"In the block menu, search for \"Gallery\" and select the Gallery block. "
+"Upload the images you want to showcase in your portfolio, then adjust the "
+"layout and add captions if needed."
+msgstr ""
+"Blok menüsünde \"Galeri\"yi bulup seçin. Portfolyonuzda sergilemek "
+"istediğiniz görselleri yükleyin, ardından düzeni ayarlayın ve gerekirse "
+"başlık ekleyin."
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:16
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open."
+msgstr ""
+"Menüyü genişletmek için sol kenar çubuğundaki Görünüm'e tıklayın. Görünüm "
+"bölümündeyse Özelleştir'e tıklayın. Özelleştirme sayfası açılacaktır."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:20
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open. "
+msgstr ""
+"Menüyü genişletmek için sol kenar çubuğundaki Görünüm'e tıklayın. Görünüm "
+"bölümünde Özelleştir'e tıklayın. Özelleştirme sayfası açılacaktır."
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:20
+msgid "In the left sidebar, click Site Identity and edit your site title."
+msgstr ""
+"Sol kenar çubuğunda Site Kimliği'ne tıklayın ve site başlığınızı düzenleyin."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:24
+msgid ""
+"In the left sidebar, click Site Identity, then click on the Select Site Icon "
+"button. Here, you can upload your brand logo. "
+msgstr ""
+"Sol kenar çubuğunda önce Site Kimliği, ardından Site Simgesini Seç düğmesine "
+"tıklayın. Buraya marka logonuzu yükleyebilirsiniz."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:16
+msgid ""
+"In the left sidebar, find the Media button. The Media Library page allows "
+"you to edit, view, and delete media previously uploaded to your website."
+msgstr ""
+"Sol kenar çubuğunda Medya düğmesini bulun. Medya Kütüphanesi sayfası, daha "
+"önce web sitenize yüklenen medyayı düzenlemenize, görüntülemenize ve "
+"silmenize olanak tanır."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:61
+msgid ""
+"In the left sidebar, find the Pages menu and click on Add New button. You "
+"will see the WordPress page editor. Each paragraph, image, or video in the "
+"WordPress editor is presented as a “block” of content."
+msgstr ""
+"Sol kenar çubuğunda Sayfalar menüsünü bulun ve Yeni Ekle düğmesine tıklayın. "
+"WordPress sayfa düzenleyicisini göreceksiniz. WordPress düzenleyicideki her "
+"paragraf, görsel veya video, bir içerik “bloğu” olarak sunulur."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:24
+msgid ""
+"In the left sidebar, find the Posts button. Click on the All Posts button "
+"and find the post for which you want to change the description."
+msgstr ""
+"Sol kenar çubuğunda Gönderiler düğmesini bulun. Tüm Gönderiler düğmesine "
+"tıklayın ve açıklamasını değiştirmek istediğiniz gönderiyi bulun."
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:5
+msgid "Invite a Friend, Earn Up to $100"
+msgstr "Arkadaşınızı Davet Edin, 100 $'a Kadar Ödül Kazanın"
+
+#: includes/Admin/Views/GetStarted.php:275 includes/Admin/Views/Learn.php:125
+msgid "Knowledge Base"
+msgstr "Bilgi Tabanı"
+
+#: includes/Admin/Menu.php:44 includes/Admin/Menu.php:45
+#: includes/Admin/Menu.php:132 includes/Admin/Menu.php:133
+msgid "Learn"
+msgstr "Öğren"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:83
+msgid ""
+"Learn how to connect your domain to Hostinger by watching this tutorial on "
+"YouTube for a step-by-step guide:"
+msgstr ""
+"Adım adım talimatlar için YouTube'daki bu rehberi izleyerek alan adınızı "
+"Hostinger'a nasıl bağlayacağınızı öğrenin:"
+
+#: includes/Admin/Views/GetStarted.php:43 includes/Admin/Views/Learn.php:28
+msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
+msgstr "LiteSpeed Cache: %100 WordPress Optimizasyonu Nasıl Elde Edilir"
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:18
+msgid "Login to the Amazon Product Advertising dashboard"
+msgstr "Amazon Ürün Reklamcılığı kontrol paneline giriş yapın"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:39
+msgid ""
+"Make the page easy to read and navigate by using headings and bullet points. "
+"Include a clear call-to-action (CTA) to encourage visitors to take the next "
+"step for example, to contact you via email or contact form."
+msgstr ""
+"Başlıkları ve maddeleri kullanarak sayfayı okumayı ve gezinmeyi "
+"kolaylaştırın. Ziyaretçileri bir sonraki adımı atmaya, örneğin sizinle e-"
+"posta veya iletişim formu aracılığıyla irtibata geçmeye teşvik etmek için "
+"net bir eyleme geçirici mesaj (CTA) ekleyin."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:62
+msgid "Nameserver 1"
+msgstr "Ad Sunucusu 1"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:72
+msgid "Nameserver 2"
+msgstr "Ad Sunucusu 2"
+
+#: includes/Admin/Views/Partials/RateUs.php:38
+#| msgid ""
+#| "on <a\n"
+#| "\t\t\t   href=\"https://wordpress."
+#| "org/support/plugin/hostinger/reviews/#new-post\"\n"
+#| "\t\t\t   target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgid ""
+"on <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
+"post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgstr ""
+"adresinde <a href=\"https://wordpress."
+"org/support/plugin/hostinger/reviews/#new-post\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">WordPress.org</a>"
+
+#: includes/Admin/Menu.php:114 includes/Admin/Menu.php:115
+msgid "Onboarding"
+msgstr "Başlangıç"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:24
+msgid ""
+"Once you have finished drafting your post, read it over to check for errors, "
+"make any necessary revisions, and then publish it to your blog."
+msgstr ""
+"Gönderinizin taslağını hazırlamayı bitirdikten sonra, hataları kontrol etmek "
+"için tekrar okuyun, gerekli düzeltmeleri yapın ve ardından blogunuzda "
+"yayınlayın."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:54
+msgid ""
+"Once you're happy with your portfolio post, click the \"Publish\" button to "
+"make it live on your website. You can add a link to your main navigation "
+"menu or other relevant posts to make it easy for visitors to find."
+msgstr ""
+"Portfolyo gönderinizden memnun kaldığınızda, onu web sitenizde yayınlamak "
+"için \"Yayınla\" düğmesine tıklayın. Ziyaretçilerin bulmasını kolaylaştırmak "
+"için ana gezinme menünüze veya diğer ilgili yayınlarınıza bir bağlantı "
+"ekleyebilirsiniz."
+
+#: includes/Admin/Hooks.php:135
+msgid ""
+"One more step to reach your online success. Finalize the visual and "
+"technical aspects of your website using our recommendations checklist."
+msgstr ""
+"Çevrimiçi başarınıza ulaşmanıza bir adım kaldı. Öneriler kontrol listemizi "
+"kullanarak web sitenizin görsel ve teknik yönlerini tamamlayın."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:23
+msgid "Open the Amazon Affiliate plugin configuration"
+msgstr "Amazon Satış Ortaklığı eklentisi yapılandırmasını açın"
+
+#: includes/Admin/Views/GetStarted.php:357
+msgid ""
+"Prepare your online store for success by entering store details, adding "
+"products, and configuring payment methods with the intuitive assistance of "
+"<b>WooCommerce</b>."
+msgstr ""
+"<b>WooCommerce</b>'in sezgisel yardımıyla mağaza ayrıntılarını girerek, ürün "
+"ekleyerek ve ödeme yöntemlerini yapılandırarak çevrimiçi mağazanızı başarıya "
+"hazırlayın."
+
+#: includes/Admin/Views/GetStarted.php:393
+msgid "Preview my website"
+msgstr "Web sitemin önizlemesi"
+
+#: includes/Admin/Hooks.php:141
+msgid "Preview store"
+msgstr "Önizleme mağazası"
+
+#: includes/Admin/Onboarding/Onboarding.php:61
+msgid "Preview website"
+msgstr "Siteyi önizle"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:23
+msgid "Proofread and publish"
+msgstr "Son okuma yapın ve yayınlayın"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:72
+msgid "Publish the page"
+msgstr "Sayfayı yayınla"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:53
+msgid "Publish your page"
+msgstr "Sayfanızı yayınlayın"
+
+#: includes/Admin/Views/GetStarted.php:194
+msgid "Publishing website"
+msgstr "Siteyi yayınlamak"
+
+#: includes/Admin/Views/Partials/RateUs.php:2
+msgid "Rate this plugin"
+msgstr "Bu eklentiyi değerlendir"
+
+#: includes/Admin/Views/GetStarted.php:352
+msgid "Recommended for you"
+msgstr "Önerilir"
+
+#: includes/Admin/Views/GetStarted.php:352
+msgid "Set up my online store"
+msgstr "Sanal mağazamı kurun"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:23
+msgid "Set up payments"
+msgstr "Ödemeleri ayarlayın"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:57
+msgid "Set up store"
+msgstr "Mağaza kur"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:9
+msgid "Set up your online store"
+msgstr "Sanal mağazanızı kurun"
+
+#: includes/Admin/Views/GetStarted.php:344
+#: includes/Admin/Views/GetStarted.php:387
+msgid "Setup store"
+msgstr "Mağaza kurulumu"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:9
+msgid ""
+"Share your referral link with friends and family and <b>receive 20% "
+"commission</b> for every successful referral."
+msgstr ""
+"Yönlendirme bağlantınızı arkadaşlarınızla ve ailenizle paylaşın ve her "
+"başarılı yönlendirme için <b>%20 komisyon kazanın</b>."
+
+#: includes/Admin/Ajax.php:121
+msgid "Something went wrong. Try again."
+msgstr "Bir şeyler ters gitti. Tekrar deneyin."
+
+#: includes/Admin/Views/GetStarted.php:372
+msgid "Start customization"
+msgstr "Özelleştirmeyi başlat"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:24
+msgid "Start earning"
+msgstr "Kazanmaya başla"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:26
+msgid "Stock management (if needed)"
+msgstr "Stok yönetimi (gerekirse)"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:46
+#: includes/Admin/Onboarding/Steps/AddHeading.php:34
+#: includes/Admin/Onboarding/Steps/AddImage.php:38
+#: includes/Admin/Onboarding/Steps/AddLogo.php:38
+#: includes/Admin/Onboarding/Steps/AddPage.php:88
+#: includes/Admin/Onboarding/Steps/AddPost.php:38
+msgid "Take me there"
+msgstr "Beni götür"
+
+#: includes/Admin/Views/GetStarted.php:195
+msgid "This can take some time"
+msgstr "Bu biraz sürebilir"
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:20
+msgid ""
+"To gather the necessary information, log in to your <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">Amazon Product Advertising dashboard</a> "
+"using your personal Amazon partnership account."
+msgstr ""
+"Gerekli bilgileri toplamak için kişisel Amazon ortaklık hesabınızı "
+"kullanarak <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Ürün "
+"Reklamcılığı kontrol panelinize</a> giriş yapın."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:20
+msgid ""
+"To upload a new image, click on Add New button on the Media Library page and "
+"select files."
+msgstr ""
+"Yeni bir görsel yüklemek için Medya Kütüphanesi sayfasındaki Yeni Ekle "
+"düğmesine tıklayın ve dosyaları seçin."
+
+#: includes/Errors.php:31
+msgid "Unknown error code."
+msgstr "Bilinmeyen hata kodu."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:9
+#: includes/Admin/Onboarding/Steps/AddImage.php:19
+msgid "Upload an image"
+msgstr "Bir görsel yükle"
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:9
+#: includes/Admin/Onboarding/Steps/AddLogo.php:23
+msgid "Upload your logo"
+msgstr "Logonuzu yükleyin"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:17
+msgid "Upload your portfolio projects"
+msgstr "Portfolyo projelerinizi yükleyin"
+
+#: includes/Admin/Hooks.php:76
+msgid ""
+"Use the special discount code <b>ONLYHOSTINGER30</b> to get 30% off on "
+"Omnisend for 6 months when you upgrade."
+msgstr ""
+"Yükselttiğinizde özel indirim kodu <b>ONLYHOSTINGER30</b>'u kullanarak 6 ay "
+"boyunca Omnisend'te %30 indirim kazanın."
+
+#: includes/Admin/Hooks.php:138
+msgid "Visit Hostinger plugin"
+msgstr "Hostinger eklentisini gör"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:28
+msgid "Wait for domain propagation"
+msgstr "Alan adı yayılımını bekleyin"
+
+#: includes/Errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later, and if the issue "
+"persists, kindly contact our support team for assistance."
+msgstr ""
+"Verdiğimiz rahatsızlık için özür dileriz. Yapay zeka içerik oluştururken bir "
+"sunucu hatasıyla karşılaştı. Lütfen daha sonra tekrar deneyin ve sorun devam "
+"ederse yardım için lütfen destek ekibimizle iletişime geçin."
+
+#: includes/Admin/Onboarding/Onboarding.php:58
+msgid "Website is published"
+msgstr "Siteniz yayınlandı"
+
+#: includes/Admin/Menu.php:86
+msgid "Website list"
+msgstr "Website bağlantısı"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:41
+msgid "Website URL"
+msgstr "Web sitesi URL'si"
+
+#: includes/Admin/Views/GetStarted.php:332
+msgid "Welcome to WordPress!"
+msgstr "WordPress'e hoş geldiniz!"
+
+#: includes/Admin/Views/GetStarted.php:333
+msgid "What do you want to do next?"
+msgstr "Bundan sonra ne yapmak istiyorsun?"
+
+#: includes/Admin/Views/GetStarted.php:206 includes/Admin/Views/Learn.php:56
+msgid "WordPress tutorials"
+msgstr "WordPress rehberleri"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:35
+msgid ""
+"Write a brief introduction to your business, provide an overview of your "
+"services with descriptions and benefits, and use relevant images to support "
+"your content. Keep it simple and straightforward."
+msgstr ""
+"İşletmenizle ilgili kısa bir tanıtım yazın, hizmetleriniz hakkında "
+"açıklamalar ve faydalar içeren bir genel bakış sağlayın ve içeriğinizi "
+"desteklemek için ilgili görselleri kullanın. Basit ve anlaşılır tutun."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:20
+msgid ""
+"Write your content, making sure to include relevant keywords and images. You "
+"can use different blocks to create headings, paragraphs, lists, and other "
+"types of content."
+msgstr ""
+"İlgili anahtar kelimeleri ve görselleri eklediğinizden emin olarak "
+"içeriğinizi yazın. Başlıklar, paragraflar, listeler ve diğer içerik "
+"türlerini oluşturmak için farklı bloklar kullanabilirsiniz."
+
+#: includes/Admin/Onboarding/Onboarding.php:59
+msgid "You can access this guide material any time when updating your website"
+msgstr ""
+"Web sitenizi güncellerken bu rehbere istediğiniz zaman erişebilirsiniz."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:58
+msgid ""
+"You can connect domain to Hostinger by changing the nameservers. Different "
+"domain providers are have unique procedures for changing nameservers. Here "
+"are Hostinger's nameservers:"
+msgstr ""
+"Ad sunucularını değiştirerek alan adınızı Hostinger'a bağlayabilirsiniz. "
+"Farklı alan adı sağlayıcılarının, ad sunucularını değiştirmek için farklı "
+"prosedürleri vardır. İşte Hostinger'ın ad sunucuları:"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:32
+msgid ""
+"You can see the whole post in the editor. Find the description part and "
+"change it to your preferences."
+msgstr ""
+"Yazının tamamını düzenleyicide görebilirsiniz. Açıklama bölümünü bulun ve "
+"tercihlerinize göre değiştirin."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:45
+msgid ""
+"You need to purchase a domain for your website before the preview domain "
+"becomes inaccessible. Find a desired website name using a"
+msgstr ""
+"Önizleme alan adına erişilemez hale gelmeden önce web siteniz için bir alan "
+"adı satın almanız gerekir. İstediğiniz web sitesi adını şuradan "
+"bulabilirsiniz:"
+
+#: includes/Admin/Hooks.php:133
+msgid "Your store is ready!"
+msgstr "Mağazanız hazır!"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:38
+msgid ""
+"Your website is already published and can be accessed using Hostinger free "
+"temporary subdomain right now. Here is the current URL of your website:"
+msgstr ""
+"Web siteniz  yayınlanmış durumda. Şu anda Hostinger'ın ücretsiz geçici alt "
+"alan adı kullanılarak erişilebilir. İşte web sitenizin mevcut URL'si:"

@@ -1,0 +1,12 @@
+/build
+/node_modules
+/assets/mix-manifest.json
+/docker-compose.yml
+/changelog.txt
+/changelog.md
+/readme.md
+/bin
+/Dockerfile
+/phpunit.xml.dist
+/tests
+/wp-config.php

@@ -1,0 +1,957 @@
+# #-#-#-#-#  hostinger-easy-onboarding.po (Hostinger Easy Onboarding 1.0.0)  #-#-#-#-#
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Easy Onboarding 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-easy-"
+"onboarding\n"
+"Last-Translator: Julia\n"
+"Language-Team: Українська\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-06T11:48:04+00:00\n"
+"PO-Revision-Date: 2024-05-14 17:20+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-easy-onboarding\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.6.7; wp-6.4.4"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Menu.php:80
+msgid "Hostinger Easy Onboarding"
+msgstr "Hostinger Easy Onboarding"
+
+#. Plugin URI of the plugin
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#. Description of the plugin
+msgid "Hostinger Easy Onboarding WordPress plugin."
+msgstr "Плагін Hostinger Easy Onboarding WordPress"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/Admin/Menu.php:17 includes/Admin/Menu.php:18
+#: includes/Admin/Views/Onboarding.php:476
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Author URI of the plugin
+msgid "https://www.hostinger.com"
+msgstr "https://www.hostinger.com"
+
+#: includes/Admin/Ajax.php:265
+msgid "Something went wrong. Try again."
+msgstr "Щось пішло не так. Спробуй ще раз."
+
+#: includes/Admin/Hooks.php:76
+msgid ""
+"Use the special discount code <b>ONLYHOSTINGER30</b> to get 30% off on "
+"Omnisend for 6 months when you upgrade."
+msgstr ""
+"Скористайтеся кодом <b>ONLYHOSTINGER30</b>, щоб отримати 30% знижки на "
+"Omnisend на 6 місяців під час зміни тарифу."
+
+#: includes/Admin/Hooks.php:80
+msgid "Get Discount"
+msgstr "Отримати знижку"
+
+#: includes/Admin/Hooks.php:133
+msgid "Your store is ready!"
+msgstr "Ваш магазин готовий!"
+
+#: includes/Admin/Hooks.php:135
+msgid ""
+"One more step to reach your online success. Finalize the visual and "
+"technical aspects of your website using our recommendations checklist."
+msgstr ""
+"Ще один крок до успіху. Завершіть роботу над візуальними та технічними "
+"аспектами вашого сайту, використовуючи наші рекомендації."
+
+#: includes/Admin/Hooks.php:138
+msgid "Visit Hostinger plugin"
+msgstr "Перейдіть до плагіну Hostinger"
+
+#: includes/Admin/Hooks.php:141
+msgid "Preview store"
+msgstr "Попередній перегляд магазину"
+
+#: includes/Admin/Menu.php:28 includes/Admin/Menu.php:29
+#: includes/Admin/Views/Onboarding.php:98
+#| msgid "Get Started"
+msgid "Get started"
+msgstr "Почати"
+
+#: includes/Admin/Menu.php:38 includes/Admin/Menu.php:39
+#: includes/Admin/Views/Onboarding.php:99
+msgid "Learn"
+msgstr "Навчайтеся"
+
+#: includes/Admin/Menu.php:49 includes/Admin/Menu.php:50
+#: includes/Admin/Views/Onboarding.php:105
+msgid "AI Content Creator"
+msgstr "Генератор контенту ШІ"
+
+#: includes/Admin/Menu.php:86
+msgid "Website list"
+msgstr "Список сайтів"
+
+#: includes/Admin/Menu.php:96
+msgid "Billings"
+msgstr "Платежі"
+
+#: includes/Admin/Menu.php:106
+msgid "Create content with AI"
+msgstr "Створити контент за допомогою ШІ"
+
+#: includes/Admin/Menu.php:114 includes/Admin/Menu.php:115
+msgid "Onboarding"
+msgstr "Онбординг"
+
+#: includes/Admin/Ajax.php:180 includes/Admin/Onboarding/Onboarding.php:64
+msgid "Website is published"
+msgstr "Сайт опубліковано"
+
+#: includes/Admin/Onboarding/Onboarding.php:65
+msgid "You can access this guide material any time when updating your website"
+msgstr ""
+"Ви можете будь-коли отримати доступ до цього посібника під час оновлення "
+"свого сайту"
+
+#: includes/Admin/Onboarding/Onboarding.php:67
+msgid "Preview website"
+msgstr "Попередній перегляд сайту"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:17
+msgid "Edit post description"
+msgstr "Редагувати опис публікації"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:23
+msgid "Go to Posts"
+msgstr "Перейти до публікації"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:24
+msgid ""
+"In the left sidebar, find the Posts button. Click on the All Posts button "
+"and find the post for which you want to change the description."
+msgstr ""
+"У лівій бічній панелі знайдіть кнопку \"Публікації\". Натисніть кнопку \"Усі "
+"публікації\" та виберіть публікацію, опис якої потрібно змінити."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:27
+msgid "Edit post"
+msgstr "Редагувати пост"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:28
+msgid ""
+"Hover over the chosen post to see the options menu. Click on the Edit button "
+"to open the post editor."
+msgstr ""
+"Наведіть курсор на потрібну публікацію, щоб побачити меню параметрів. "
+"Натисніть кнопку \"Редагувати\", щоб відкрити редактор публікацій."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:31
+msgid "Edit description"
+msgstr "Редагувати опис"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:32
+msgid ""
+"You can see the whole post in the editor. Find the description part and "
+"change it to your preferences."
+msgstr ""
+"Ви можете переглянути весь текстовий вміст у редакторі. Знайдіть частину "
+"опису та змініть її під свої потреби."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:46
+#: includes/Admin/Onboarding/Steps/AddHeading.php:34
+#: includes/Admin/Onboarding/Steps/AddImage.php:38
+#: includes/Admin/Onboarding/Steps/AddLogo.php:38
+#: includes/Admin/Onboarding/Steps/AddPage.php:88
+#: includes/Admin/Onboarding/Steps/AddPost.php:38
+msgid "Take me there"
+msgstr "Перейти"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:9
+msgid "Edit site title"
+msgstr "Редагувати назву сайту"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:15
+#: includes/Admin/Onboarding/Steps/AddLogo.php:19
+msgid "Go to the Customize page"
+msgstr "Перейти на сторінку налаштування"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:16
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open."
+msgstr ""
+"На лівій бічній панелі натисніть «Вигляд», щоб розгорнути меню. У розділі "
+"«Вигляд» натисніть «Налаштувати». Відкриється сторінка Налаштувати."
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:19
+msgid "Access the Site identity and edit title"
+msgstr "Доступ до айдентики сайту та редагування заголовка"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:20
+msgid "In the left sidebar, click Site Identity and edit your site title."
+msgstr ""
+"У лівій бічній панелі натисніть \"Айдентика сайту\" та відредагуйте назву "
+"сайту."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:9
+#: includes/Admin/Onboarding/Steps/AddImage.php:19
+msgid "Upload an image"
+msgstr "Завантажте зображення"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:15
+msgid "Find the Media page"
+msgstr "Знайдіть сторінку «Медіа»"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:16
+msgid ""
+"In the left sidebar, find the Media button. The Media Library page allows "
+"you to edit, view, and delete media previously uploaded to your website."
+msgstr ""
+"У лівій бічній панелі знайдіть \"Медіа\". Сторінка медіатеки дозволяє "
+"редагувати, переглядати та видаляти медіафайли, раніше завантажені на ваш "
+"сайт."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:20
+msgid ""
+"To upload a new image, click on Add New button on the Media Library page and "
+"select files."
+msgstr ""
+"Щоб завантажити нове зображення, натисніть кнопку \"Додати нове\" на "
+"сторінці медіатеки та виберіть файли."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:23
+msgid "Edit an image"
+msgstr "Редагувати зображення"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:24
+msgid ""
+"If you wish to edit the image, click on the chosen image and click the Edit "
+"Image button. You can now crop, rotate, flip or scale the selected image."
+msgstr ""
+"Якщо ви бажаєте відредагувати зображення, натисніть на вибране зображення та "
+"натисніть кнопку \"Редагувати зображення\". Тепер ви можете обрізати, "
+"обертати, перевертати або масштабувати вибране зображення."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:9
+#: includes/Admin/Onboarding/Steps/AddLogo.php:23
+msgid "Upload your logo"
+msgstr "Завантажте логотип"
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:15
+msgid "Create a logo"
+msgstr "Створіть логотип"
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:16
+#| msgid ""
+#| "Adding a logo is a great way to personalize a website or add branding "
+#| "information. You can use your existing logo or create a new one using the "
+#| "<a href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+#| "target=\"_blank\">Ai Logo Maker</a>."
+msgid ""
+"Adding a logo is a great way to personalize a website or add branding "
+"information. You can use your existing logo or create a new one using the <a "
+"href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+"target=\"_blank\">AI Logo Maker</a>."
+msgstr ""
+"Логотип – чудовий спосіб персоналізувати сайт або додати брендинг. Ви можете "
+"використати наявний логотип або створити новий за допомогою <a href=\"https:"
+"//logo.hostinger.com/?ref=wordpress-onboarding\" target=\"_blank\">"
+"конструктора лого ШІ</a>."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:20
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open. "
+msgstr ""
+"У лівій бічній панелі натисніть \"Вигляд\", щоб відкрити меню. У розділі "
+"\"Вигляд\" натисніть \"Налаштувати\". Відкриється сторінка налаштування."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:24
+msgid ""
+"In the left sidebar, click Site Identity, then click on the Select Site Icon "
+"button. Here, you can upload your brand logo. "
+msgstr ""
+"У лівій бічній панелі виберіть \"Айдентика сайту\" та натисніть кнопку "
+"\"Вибрати піктограму сайту\". Тут ви можете завантажити логотип вашого "
+"бренду."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:15
+msgid "Create a page describing your services"
+msgstr "Створіть сторінку з описом ваших послуг"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:17
+msgid "Upload your portfolio projects"
+msgstr "Завантажте портфоліо"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:19
+#: includes/Admin/Onboarding/Steps/AddPage.php:60
+msgid "Add a new page"
+msgstr "Додайте нову сторінку"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:30
+msgid "Give a page a short title such as “Our Services”"
+msgstr "Створіть короткий заголовок сторінки, наприклад \"Наші послуги\""
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:31
+msgid ""
+"Come up with a clear and concise name for the page that accurately reflects "
+"the services you provide."
+msgstr ""
+"Придумайте чітку та лаконічну назву для сторінки, яка найкраще відображатиме "
+"ваші послуги."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:34
+msgid "Add the content and images that represent your services"
+msgstr "Додайте контент і зображення, які описують ваші послуги"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:35
+msgid ""
+"Write a brief introduction to your business, provide an overview of your "
+"services with descriptions and benefits, and use relevant images to support "
+"your content. Keep it simple and straightforward."
+msgstr ""
+"Коротко опишіть ваш бізнес, розкажіть про послуги та їх переваги, "
+"використовуйте зображення, які допоможуть краще зрозуміти надану інформацію. "
+"Будьте лаконічними та чіткими."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:38
+msgid "Finalize the page"
+msgstr "Завершіть налаштування сторінки"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:39
+msgid ""
+"Make the page easy to read and navigate by using headings and bullet points. "
+"Include a clear call-to-action (CTA) to encourage visitors to take the next "
+"step for example, to contact you via email or contact form."
+msgstr ""
+"Зробіть сторінку зручною для читання та навігації, використовуючи заголовки "
+"та абзаци. Використовуйте чіткі заклики до дії (CTA), щоб спонукати "
+"відвідувачів зробити наступний крок, наприклад, зв’язатися з вами "
+"електронною поштою або через контактну форму."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:45
+msgid "Create a new page called “My projects”"
+msgstr "Створіть нову сторінку \"Мої проєкти\""
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:46
+msgid ""
+"Give your page a name (e.g. \"My Portfolio\"), then click the \"+\" button "
+"in the editor to add a new block."
+msgstr ""
+"Створіть заголовок сторінки (наприклад, \"Моє портфоліо\"), а потім "
+"натисніть кнопку «+» у редакторі, щоб додати новий розділ."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:49
+msgid "Add a gallery block"
+msgstr "Додайте блок галереї"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:50
+msgid ""
+"In the block menu, search for \"Gallery\" and select the Gallery block. "
+"Upload the images you want to showcase in your portfolio, then adjust the "
+"layout and add captions if needed."
+msgstr ""
+"Виберіть блок \"Галерея\". Завантажте зображення, які ви хочете "
+"продемонструвати у своєму портфоліо, потім відредагуйте макет і за потреби "
+"додайте підписи."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:53
+msgid "Publish your page"
+msgstr "Опублікуйте сторінку"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:54
+msgid ""
+"Once you're happy with your portfolio post, click the \"Publish\" button to "
+"make it live on your website. You can add a link to your main navigation "
+"menu or other relevant posts to make it easy for visitors to find."
+msgstr ""
+"Якщо ви задоволені портфоліо, натисніть кнопку \"Опублікувати\", щоб воно "
+"з'явилося на сайті. Ви можете додати посилання на головне меню навігації або "
+"в інші публікації, щоб полегшити відвідувачам пошук."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:61
+msgid ""
+"In the left sidebar, find the Pages menu and click on Add New button. You "
+"will see the WordPress page editor. Each paragraph, image, or video in the "
+"WordPress editor is presented as a “block” of content."
+msgstr ""
+"На лівій бічній панелі знайдіть меню \"Сторінки\" та натисніть кнопку "
+"\"Додати нову\". Ви побачите редактор сторінки WordPress. Кожен абзац, "
+"зображення або відео в редакторі WordPress представлено як «блок» вмісту."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:64
+msgid "Add a title"
+msgstr "Додайте заголовок"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:65
+msgid ""
+"Add the title of the page, for example, About. Click the Add Title text to "
+"open the text box where you will add your title. The title of your page "
+"should be descriptive of the information the page will have."
+msgstr ""
+"Додайте заголовок сторінки, наприклад \"Про нас\". Натисніть \"Додати "
+"заголовок\", щоб відкрити текстове поле та ввести заголовок. Він має "
+"відображати вміст сторінки."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:68
+msgid "Add content"
+msgstr "Додайте контент"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:69
+msgid ""
+"Content can be anything you wish, for example, text, images, videos, tables, "
+"and lots more. Click on a plus sign and choose any block you want to add to "
+"the page."
+msgstr ""
+"Ви можете використовувати різні типи контенту, наприклад, текст, зображення, "
+"відео, таблиці тощо. Натисніть на знак плюс і виберіть будь-який контент, "
+"який ви хочете додати на сторінку."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:72
+msgid "Publish the page"
+msgstr "Опублікувати сторінку"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:73
+msgid ""
+"Before publishing, you can preview your created page by clicking on the "
+"Preview button. If you are happy with the result, click the Publish button."
+msgstr ""
+"Перед публікацією ви можете переглянути створену сторінку, натиснувши кнопку "
+"\"Попередній перегляд\". Якщо ви задоволені результатом, натисніть "
+"\"Опублікувати\"."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:9
+msgid "Create your first blog post"
+msgstr "Створіть першу публікацію в блозі"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:15
+msgid "Create a catchy headline"
+msgstr "Створіть привабливий заголовок"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:16
+msgid ""
+"Create a headline that grabs your visitors attention and accurately "
+"represents the content of your post."
+msgstr ""
+"Створіть заголовок, який приверне увагу відвідувачів і відображатиме вміст "
+"сторінки."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:19
+msgid "Draft your post"
+msgstr "Створіть чернетку публікації"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:20
+msgid ""
+"Write your content, making sure to include relevant keywords and images. You "
+"can use different blocks to create headings, paragraphs, lists, and other "
+"types of content."
+msgstr ""
+"Напишіть свій контент, обов’язково додайте ключові слова та зображення. Ви "
+"можете використовувати різні блоки для створення заголовків, абзаців, "
+"списків тощо."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:23
+msgid "Proofread and publish"
+msgstr "Відредагувати та опублікувати"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:24
+msgid ""
+"Once you have finished drafting your post, read it over to check for errors, "
+"make any necessary revisions, and then publish it to your blog."
+msgstr ""
+"Написавши допис, прочитайте його, щоб перевірити наявність помилок, внесіть "
+"необхідні зміни, а потім опублікуйте його у своєму блозі."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:12
+msgid "Connect Amazon partnership account"
+msgstr "Підключіть партнерський акаунт Amazon"
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:18
+msgid "Login to the Amazon Product Advertising dashboard"
+msgstr "Увійдіть до панелі управління Amazon Product Advertising"
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:20
+msgid ""
+"To gather the necessary information, log in to your <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">Amazon Product Advertising dashboard</a> "
+"using your personal Amazon partnership account."
+msgstr ""
+"Щоб зібрати необхідну інформацію, увійдіть у <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">панель управління Amazon Product "
+"Advertising</a>, використовуючи свій особистий партнерський акаунт Amazon."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:23
+msgid "Open the Amazon Affiliate plugin configuration"
+msgstr "Відкрийте конфігурацію плагіна Amazon Affiliate"
+
+#. translators: %s: link to plugin page
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:25
+msgid ""
+"Fill in the required details on the <a href=\"%s\" class=\"hst-open-"
+"affiliate-tab\">Amazon Affiliate plugin page</a>, where you'll find all the "
+"necessary information about the plugin."
+msgstr ""
+"Заповніть необхідні дані на сторінці <a href=\"%s\" class=\"hst-open-"
+"affiliate-tab\">Плагін Amazon Affiliate</a>, де ви знайдете всю необхідну "
+"інформацію про плагін."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:28
+msgid "Copy-Paste the necessary information:"
+msgstr "Скопіюйте та вставте необхідну інформацію:"
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:30
+msgid ""
+"Complete the form with required information related to Amazon's partnership "
+"API. Retrieve all this information from the <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Amazon Product Advertising dashboard</a> and paste it into "
+"the form."
+msgstr ""
+"Заповніть форму, пов'язану з партнерським API Amazon. Знайдіть необхідну "
+"інформацію в <a href=\"%s\" target=\"_blank\" rel=\"noopener\">панелі "
+"управління Amazon Product Advertising</a> і вставте її у форму."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:44
+msgid "Connect Amazon Account"
+msgstr "Підключіть акаунт Amazon"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:14
+msgid "Connect your domain"
+msgstr "Підключіть ваш домен"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:20
+msgid "Get a domain"
+msgstr "Отримати домен"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:24
+msgid "Connect your domain to Hostinger"
+msgstr "Підключіть ваш домен до Hostinger"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:28
+msgid "Wait for domain propagation"
+msgstr "Дочекайтеся розповсюдження домену"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:29
+msgid ""
+"Domain propagation can take up to 24 hours. Your domain will propagate "
+"automatically, and you don't need to take any action during this time."
+msgstr ""
+"Поширення домену може зайняти до 24 годин. Ваш домен поширюватиметься "
+"автоматично. Протягом цього часу вам не потрібно робити жодних дій."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:38
+msgid ""
+"Your website is already published and can be accessed using Hostinger free "
+"temporary subdomain right now. Here is the current URL of your website:"
+msgstr ""
+"Ваш сайт вже опублікований і доступний за допомогою безплатного тимчасового "
+"піддомену Hostinger прямо зараз. Ось поточна URL-адреса вашого сайту:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:41
+msgid "Website URL"
+msgstr "URL-адреса сайту"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:45
+msgid ""
+"You need to purchase a domain for your website before the preview domain "
+"becomes inaccessible. Find a desired website name using a"
+msgstr ""
+"Вам потрібно придбати домен для вашого сайту до того, як домен для "
+"попереднього перегляду стане недоступним. Знайдіть потрібне ім'я сайту за "
+"допомогою"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:46
+msgid "domain name searcher."
+msgstr "пошук доменних імен."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:58
+msgid ""
+"You can connect domain to Hostinger by changing the nameservers. Different "
+"domain providers are have unique procedures for changing nameservers. Here "
+"are Hostinger's nameservers:"
+msgstr ""
+"Ви можете підключити домен до Hostinger, змінивши сервери імен. Різні "
+"провайдери доменів мають унікальні процедури зміни серверів імен. Ось список "
+"серверів імен Hostinger:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:62
+msgid "Nameserver 1"
+msgstr "Сервер імен 1"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:72
+msgid "Nameserver 2"
+msgstr "Сервер імен 2"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:83
+msgid ""
+"Learn how to connect your domain to Hostinger by watching this tutorial on "
+"YouTube for a step-by-step guide:"
+msgstr ""
+"Дізнайтеся, як підключити свій домен до Hostinger, переглянувши покрокову "
+"інструкцію на YouTube:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:92
+msgid "How to Point Domain Name to Web Hosting"
+msgstr "Як направити доменне ім'я на хостинг"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:136
+msgid "Connect domain now"
+msgstr "Підключіть домен зараз"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:9
+msgid "Set up your online store"
+msgstr "Налаштуйте свій інтернет-магазин"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:17
+msgid ""
+"Complete this following steps to set up your online store. Don't worry, "
+"WooCommerce will help you to finish the steps."
+msgstr ""
+"Виконайте наведені нижче кроки, щоб створити інтернет-магазин. WooCommerce "
+"допоможе вам виконати ці кроки."
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:20
+msgid "Add products"
+msgstr "Додайте товари"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:23
+msgid "Set up payments"
+msgstr "Налаштуйте оплату"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:26
+msgid "Stock management (if needed)"
+msgstr "Керувати асортиментом (якщо потрібно)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:29
+msgid "Add tax rates (if needed)"
+msgstr "Додайте податки (якщо потрібно)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:32
+msgid "Advertising configuration (if needed)"
+msgstr "Налаштування реклами (якщо потрібно)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:57
+msgid "Set up store"
+msgstr "Налаштуйте магазин"
+
+#: includes/Admin/Views/Onboarding.php:23
+#: includes/Admin/Views/Onboarding.php:306
+msgid "How to Add Your WordPress Website to Google Search Console"
+msgstr "Як додати сайт WordPress до Google Search Console"
+
+#: includes/Admin/Views/Onboarding.php:28
+msgid "How to Create a WordPress Contact Us Page"
+msgstr "Як створити сторінку \"Контакти\" в WordPress"
+
+#: includes/Admin/Views/Onboarding.php:33
+msgid "How to Clear Cache in WordPress Website"
+msgstr "Як очистити кеш сайту WordPress"
+
+#: includes/Admin/Views/Onboarding.php:38
+msgid "How to Edit the Footer in WordPress"
+msgstr "Як редагувати нижній колонтитул у WordPress"
+
+#: includes/Admin/Views/Onboarding.php:43
+msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
+msgstr "Кеш LiteSpeed: як отримати 100% оптимізацію WordPress"
+
+#: includes/Admin/Views/Onboarding.php:48
+msgid "How to Back Up a WordPress Site"
+msgstr "Як створити резервну копію сайту WordPress"
+
+#: includes/Admin/Views/Onboarding.php:53
+msgid "How to Import Images Into WordPress Website"
+msgstr "Як імпортувати зображення на сайт WordPress"
+
+#: includes/Admin/Views/Onboarding.php:58
+msgid "How to Set Up WordPress SMTP"
+msgstr "Як налаштувати SMTP у WordPress"
+
+#: includes/Admin/Views/Onboarding.php:198
+msgid "Got it!"
+msgstr "Зрозуміло!"
+
+#: includes/Admin/Views/Onboarding.php:265
+msgid "Publishing website"
+msgstr "Публікування сайту"
+
+#: includes/Admin/Views/Onboarding.php:266
+msgid "This can take some time"
+msgstr "Це може зайняти деякий час"
+
+#: includes/Admin/Views/Onboarding.php:268
+msgid "Close"
+msgstr "Закрити"
+
+#: includes/Admin/Views/Onboarding.php:278
+msgid "WordPress tutorials"
+msgstr "Посібники з WordPress"
+
+#: includes/Admin/Views/Onboarding.php:285
+msgid "Hostinger Academy"
+msgstr "Hostinger Academy"
+
+#: includes/Admin/Views/Onboarding.php:347
+msgid "Knowledge Base"
+msgstr "База знань"
+
+#: includes/Admin/Views/Onboarding.php:348
+msgid "Find the answers you need in our Knowledge Base"
+msgstr "Знайдіть необхідну інформацію в нашій базі знань"
+
+#: includes/Admin/Views/Onboarding.php:358
+msgid "Help Center"
+msgstr "Команда підтримки"
+
+#: includes/Admin/Views/Onboarding.php:359
+msgid "Get in touch with our live specialists"
+msgstr "Зв'яжіться з нашими фахівцями через онлайн-чат"
+
+#: includes/Admin/Views/Onboarding.php:405
+msgid "Welcome to WordPress!"
+msgstr "Ласкаво просимо до WordPress!"
+
+#: includes/Admin/Views/Onboarding.php:406
+msgid "What do you want to do next?"
+msgstr "Що ви плануєте робити далі?"
+
+#: includes/Admin/Views/Onboarding.php:411
+msgid ""
+"Congratulations for finishing your hosting set-up and make your website "
+"online! Here are the steps that you can do after setting up your hosting "
+"plan."
+msgstr ""
+"Вітаємо вас із завершенням налаштування хостингу та запуском сайту! Ось "
+"кроки, які ви можете виконати після налаштування хостинг-тарифу."
+
+#: includes/Admin/Views/Onboarding.php:417
+#: includes/Admin/Views/Onboarding.php:463
+msgid "Setup store"
+msgstr "Налаштування магазину"
+
+#: includes/Admin/Views/Onboarding.php:425
+msgid "Set up my online store"
+msgstr "Налаштувати мій інтернет-магазин"
+
+#: includes/Admin/Views/Onboarding.php:425
+msgid "Recommended for you"
+msgstr "Рекомендовано для вас"
+
+#: includes/Admin/Views/Onboarding.php:430
+msgid ""
+"Prepare your online store for success by entering store details, adding "
+"products, and configuring payment methods with the intuitive assistance of "
+"<b>WooCommerce</b>."
+msgstr ""
+"Запустіть інтернет-магазин, ввівши дані магазину, додавши товари та "
+"налаштувавши способи оплати за допомогою <b>WooCommerce</b>."
+
+#: includes/Admin/Views/Onboarding.php:445
+msgid "Start customization"
+msgstr "Почати налаштування"
+
+#: includes/Admin/Views/Onboarding.php:453
+msgid "Customize my website"
+msgstr "Налаштувати мій сайт"
+
+#: includes/Admin/Views/Onboarding.php:456
+msgid ""
+"Customize the visual and technical aspects of your website – personalize "
+"themes, explore plugins, or preview your website. Don’t worry, we will help "
+"you by giving the step-by-step tutorial to do it."
+msgstr ""
+"Налаштуйте візуальні та технічні аспекти вашого сайту – персоналізуйте теми, "
+"ознайомтеся з плагінами та скористайтеся режимом попереднього перегляду "
+"сайту. Не хвилюйтеся, ми надамо вам покрокову інструкцію."
+
+#: includes/Admin/Views/Onboarding.php:469
+msgid "Preview my website"
+msgstr "Попередній перегляд мого сайту"
+
+#: includes/Admin/Views/GetStarted.php:400
+msgid "hostinger-easy-onboarding"
+msgstr "hostinger-easy-onboarding"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:5
+msgid "Invite a Friend, Earn Up to $100"
+msgstr "Запросіть друга та отримайте до 100 $"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:9
+msgid ""
+"Share your referral link with friends and family and <b>receive 20% "
+"commission</b> for every successful referral."
+msgstr ""
+"Поділіться своїм реферальним посиланням з друзями та <b>отримуйте 20% "
+"комісії</b> за кожного успішного реферала."
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:24
+msgid "Start earning"
+msgstr "Почати"
+
+#: includes/Admin/Views/Partials/RateUs.php:2
+msgid "Rate this plugin"
+msgstr "Оцініть цей плагін"
+
+#: includes/Admin/Views/Partials/RateUs.php:38
+#| msgid ""
+#| "on <a\n"
+#| "\t\t\t   href=\"https://wordpress."
+#| "org/support/plugin/hostinger/reviews/#new-post\"\n"
+#| "\t\t\t   target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgid ""
+"on <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
+"post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgstr ""
+"на <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
+"post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+
+#: includes/Errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr ""
+"Не вдалося виконати дію. Спробуйте ще раз або зверніться до служби підтримки."
+" "
+
+#: includes/Errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr ""
+"Виникла непередбачувана помилка. Спробуйте ще раз або зверніться до служби "
+"підтримки."
+
+#: includes/Errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later, and if the issue "
+"persists, kindly contact our support team for assistance."
+msgstr ""
+"Перепрошуємо за тимчасові незручності. Під час генерації контенту ШІ виникла "
+"помилка сервера. Повторіть спробу пізніше. Якщо проблема не зникне, "
+"зверніться за допомогою до нашої служби підтримки."
+
+#: includes/Errors.php:31
+msgid "Unknown error code."
+msgstr "Невідомий код помилки."
+
+#: includes/Views/ComingSoon.php:6 includes/Views/ComingSoon.php:25
+msgid "Coming Soon"
+msgstr "Незабаром"
+
+#: includes/Admin/Ajax.php:181
+msgid "Congratulations! Your website is online."
+msgstr "Вітаємо! Ваш сайт онлайн."
+
+#: includes/Surveys/Questions.php:20 includes/Surveys/Questions.php:22
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Чи є у вас коментарі/пропозиції щодо покращення наших інструментів ШІ?"
+
+#: includes/Surveys/Questions.php:21
+msgid ""
+"Do you have any comments/suggestions to improve our WooCommerce onboarding?"
+msgstr ""
+"Чи є у вас коментарі/пропозиції щодо покращення нашого онбордингу для "
+"WooCommerce?"
+
+#: includes/Surveys/Surveys.php:351
+msgid "Excellent"
+msgstr "Чудово"
+
+#: includes/Admin/Onboarding/Onboarding.php:76
+msgid "Follow our guided checklist to setup your website"
+msgstr "Скористайтеся нашим чек-листом, щоб налаштувати сайт"
+
+#: includes/Admin/Views/Onboarding.php:131
+msgid "Go to hPanel"
+msgstr "Перейти до hPanel"
+
+#. Description of the plugin
+msgid "Hostinger WordPress plugin."
+msgstr "Плагін WordPress Hostinger."
+
+#: includes/Surveys/Questions.php:23
+msgid "How could we improve the Amazon Affiliate plugin and theme?"
+msgstr "Як ми можемо покращити плагін і тему Amazon Affiliate?"
+
+#: includes/Surveys/Questions.php:16
+msgid "How would you rate your experience publishing Amazon Affiliate links?"
+msgstr "Як би ви оцінили свій досвід публікації партнерських посилань Amazon?"
+
+#: includes/Surveys/Questions.php:14
+msgid ""
+"How would you rate your experience setting up a WooCommerce site on our "
+"hosting?"
+msgstr ""
+"Як би ви оцінили свій досвід створення сайту WooCommerce на нашому хостингу?"
+
+#: includes/Surveys/Questions.php:13
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr ""
+"Як ви оцінюєте свій досвід використання нашого плагіна AI Assistant для "
+"генерації контенту? (За шкалою від 1 до 10)"
+
+#: includes/Surveys/Questions.php:15
+msgid ""
+"How would you rate your experience using our AI content generation tools in "
+"onboarding? (Scale 1-10)"
+msgstr ""
+"Як ви оцінюєте свій досвід використання наших інструментів для створення "
+"контенту за допомогою ШІ в онбордингу? (За шкалою від 1 до 10)"
+
+#: includes/Views/ComingSoon.php:26
+msgid "New WordPress website is being built and will be published soon"
+msgstr "Новий сайт WordPress створюється та незабаром буде опублікований"
+
+#: includes/Surveys/Surveys.php:307
+msgid "Next"
+msgstr "Далі"
+
+#: includes/Surveys/Surveys.php:404
+msgid "of "
+msgstr "з"
+
+#: includes/Surveys/Surveys.php:350
+msgid "Poor"
+msgstr "Погано"
+
+#: includes/Surveys/Surveys.php:308
+msgid "Previous"
+msgstr "Попередній"
+
+#: includes/Admin/Onboarding/Onboarding.php:77
+#: includes/Admin/Onboarding/Onboarding.php:79
+msgid "Publish website"
+msgstr "Опублікувати сайт"
+
+#: includes/Surveys/Surveys.php:398
+msgid "Question"
+msgstr "Запитання"
+
+#: includes/Surveys/Surveys.php:338
+msgid "Response required."
+msgstr "Потрібна відповідь."
+
+#: includes/Admin/Onboarding/Onboarding.php:75
+msgid "Set up your website"
+msgstr "Налаштуйте свій сайт"
+
+#: includes/Surveys/Surveys.php:309
+msgid "Submit"
+msgstr "Надіслати"
+
+#: includes/Surveys/Surveys.php:287
+msgid "Survey completed"
+msgstr "Опитування закінчено"
+
+#: includes/Surveys/Surveys.php:310
+msgid "Thank you for completing the survey !"
+msgstr "Дякуємо за участь в опитуванні!"

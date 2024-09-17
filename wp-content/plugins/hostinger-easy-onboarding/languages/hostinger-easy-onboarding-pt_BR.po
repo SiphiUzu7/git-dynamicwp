@@ -1,0 +1,957 @@
+# #-#-#-#-#  hostinger-easy-onboarding.po (Hostinger Easy Onboarding 1.0.0)  #-#-#-#-#
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL v3.
+# #-#-#-#-#  hostinger-pt_BR.po (Hostinger 1.6.7)  #-#-#-#-#
+# Copyright (C) 2023 Hostinger
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Easy Onboarding 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-easy-"
+"onboarding\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Brazil)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-06T11:48:04+00:00\n"
+"PO-Revision-Date: 2024-05-15 16:15+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-easy-onboarding\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.7; wp-6.4.4\n"
+"Language: pt_BR"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Menu.php:80
+msgid "Hostinger Easy Onboarding"
+msgstr "Hostinger Integração Fácil"
+
+#. Plugin URI of the plugin
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com.br"
+
+#. Description of the plugin
+msgid "Hostinger Easy Onboarding WordPress plugin."
+msgstr "Plugin Hostinger Integração Fácil para WordPress"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/Admin/Menu.php:17 includes/Admin/Menu.php:18
+#: includes/Admin/Views/Onboarding.php:476
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Author URI of the plugin
+msgid "https://www.hostinger.com"
+msgstr "https://www.hostinger.com.br"
+
+#: includes/Admin/Ajax.php:265
+msgid "Something went wrong. Try again."
+msgstr "Algo deu errado. Tente novamente."
+
+#: includes/Admin/Hooks.php:76
+msgid ""
+"Use the special discount code <b>ONLYHOSTINGER30</b> to get 30% off on "
+"Omnisend for 6 months when you upgrade."
+msgstr ""
+"Use o cupom exclusivo <b>ONLYHOSTINGER30</b> para ganhar 30% de desconto no "
+"Omnisend por 6 meses ao fazer upgrade."
+
+#: includes/Admin/Hooks.php:80
+msgid "Get Discount"
+msgstr "Resgatar desconto"
+
+#: includes/Admin/Hooks.php:133
+msgid "Your store is ready!"
+msgstr "Sua loja está pronta!"
+
+#: includes/Admin/Hooks.php:135
+msgid ""
+"One more step to reach your online success. Finalize the visual and "
+"technical aspects of your website using our recommendations checklist."
+msgstr ""
+"Mais uma etapa para alcançar seu sucesso online. Finalize os aspectos "
+"visuais e técnicos de seu site usando nossa lista de recomendações."
+
+#: includes/Admin/Hooks.php:138
+msgid "Visit Hostinger plugin"
+msgstr "Visitar plugin Hostinger"
+
+#: includes/Admin/Hooks.php:141
+msgid "Preview store"
+msgstr "Visualizar loja"
+
+#: includes/Admin/Menu.php:28 includes/Admin/Menu.php:29
+#: includes/Admin/Views/Onboarding.php:98
+msgid "Get started"
+msgstr "Começar"
+
+#: includes/Admin/Menu.php:38 includes/Admin/Menu.php:39
+#: includes/Admin/Views/Onboarding.php:99
+msgid "Learn"
+msgstr "Aprender"
+
+#: includes/Admin/Menu.php:49 includes/Admin/Menu.php:50
+#: includes/Admin/Views/Onboarding.php:105
+msgid "AI Content Creator"
+msgstr "Criador de Conteúdo com IA"
+
+#: includes/Admin/Menu.php:86
+msgid "Website list"
+msgstr "Lista de sites"
+
+#: includes/Admin/Menu.php:96
+msgid "Billings"
+msgstr "Faturas"
+
+#: includes/Admin/Menu.php:106
+msgid "Create content with AI"
+msgstr "Crie conteúdo com IA"
+
+#: includes/Admin/Menu.php:114 includes/Admin/Menu.php:115
+msgid "Onboarding"
+msgstr "Integração"
+
+#: includes/Admin/Ajax.php:180 includes/Admin/Onboarding/Onboarding.php:64
+msgid "Website is published"
+msgstr "O site está publicado"
+
+#: includes/Admin/Onboarding/Onboarding.php:65
+msgid "You can access this guide material any time when updating your website"
+msgstr ""
+"Você pode acessar o material deste guia sempre que estiver atualizando seu "
+"site"
+
+#: includes/Admin/Onboarding/Onboarding.php:67
+msgid "Preview website"
+msgstr "Ver prévia do site"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:17
+msgid "Edit post description"
+msgstr "Editar descrição do post"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:23
+msgid "Go to Posts"
+msgstr "Vá para Posts"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:24
+msgid ""
+"In the left sidebar, find the Posts button. Click on the All Posts button "
+"and find the post for which you want to change the description."
+msgstr ""
+"No menu lateral esquerdo, encontre a opção \"Páginas\". Clique no botão "
+"\"Todos os posts\" e selecione a postagem para a qual você quer dar uma nova "
+"descrição."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:27
+msgid "Edit post"
+msgstr "Editar post"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:28
+msgid ""
+"Hover over the chosen post to see the options menu. Click on the Edit button "
+"to open the post editor."
+msgstr ""
+"Passe o mouse sobre o post para ver o menu de opções. Clique no botão "
+"\"Editar\" para abrir o editor de postagens."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:31
+msgid "Edit description"
+msgstr "Editar descrição"
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:32
+msgid ""
+"You can see the whole post in the editor. Find the description part and "
+"change it to your preferences."
+msgstr ""
+"Você poderá ver o post inteiro no editor. Encontre a seção de descrição e "
+"faça as mudanças que preferir."
+
+#: includes/Admin/Onboarding/Steps/AddDescription.php:46
+#: includes/Admin/Onboarding/Steps/AddHeading.php:34
+#: includes/Admin/Onboarding/Steps/AddImage.php:38
+#: includes/Admin/Onboarding/Steps/AddLogo.php:38
+#: includes/Admin/Onboarding/Steps/AddPage.php:88
+#: includes/Admin/Onboarding/Steps/AddPost.php:38
+msgid "Take me there"
+msgstr "Me leve até lá"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:9
+msgid "Edit site title"
+msgstr "Editar título do site"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:15
+#: includes/Admin/Onboarding/Steps/AddLogo.php:19
+msgid "Go to the Customize page"
+msgstr "Vá para a página Personalizar"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:16
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open."
+msgstr ""
+"No menu lateral esquerdo, clique em \"Aparência\" para expandir as opções. "
+"Depois, clique em \"Personalizar\". A página de personalização será aberta."
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:19
+msgid "Access the Site identity and edit title"
+msgstr "Acesse a seção Identidade do Site e editar título"
+
+#: includes/Admin/Onboarding/Steps/AddHeading.php:20
+msgid "In the left sidebar, click Site Identity and edit your site title."
+msgstr ""
+"No menu lateral esquerdo, clique em \"Identidade do Site\" para editar o "
+"título do site."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:9
+#: includes/Admin/Onboarding/Steps/AddImage.php:19
+msgid "Upload an image"
+msgstr "Importar imagem"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:15
+msgid "Find the Media page"
+msgstr "Encontre a página de Mídias"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:16
+msgid ""
+"In the left sidebar, find the Media button. The Media Library page allows "
+"you to edit, view, and delete media previously uploaded to your website."
+msgstr ""
+"No menu lateral esquerdo, clique no botão \"Mídia\". Lá você poderá editar, "
+"visualizar e apagar todos os elementos de mídia do seu site."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:20
+msgid ""
+"To upload a new image, click on Add New button on the Media Library page and "
+"select files."
+msgstr ""
+"Para importar uma nova imagem, clique em \"Adicionar nova\" na página de "
+"Mídia e selecione os arquivos."
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:23
+msgid "Edit an image"
+msgstr "Editar uma imagem"
+
+#: includes/Admin/Onboarding/Steps/AddImage.php:24
+msgid ""
+"If you wish to edit the image, click on the chosen image and click the Edit "
+"Image button. You can now crop, rotate, flip or scale the selected image."
+msgstr ""
+"Se você quiser editar a imagem, clique nela e depois no botão \"Editar "
+"imagem\". Você vai poder cortar, girar, espelhar e redimensionar a imagem "
+"selecionada."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:9
+#: includes/Admin/Onboarding/Steps/AddLogo.php:23
+msgid "Upload your logo"
+msgstr "Importar seu logo"
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:15
+msgid "Create a logo"
+msgstr "Crie um logo"
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:16
+#| msgid ""
+#| "Adding a logo is a great way to personalize a website or add branding "
+#| "information. You can use your existing logo or create a new one using the "
+#| "<a href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+#| "target=\"_blank\">Ai Logo Maker</a>."
+msgid ""
+"Adding a logo is a great way to personalize a website or add branding "
+"information. You can use your existing logo or create a new one using the <a "
+"href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" "
+"target=\"_blank\">AI Logo Maker</a>."
+msgstr ""
+"Adicionar um logo é uma ótima forma de personalizar seu site e deixar suas "
+"páginas com a cara da sua marca. Você pode usar um logo que já tem, ou criar "
+"um novo usando nossa ferramenta <a href=\"https://logo.hostinger.com/?"
+"ref=wordpress-onboarding\" target=\"_blank\">Criador de Logos com IA</a>."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:20
+msgid ""
+"In the left sidebar, click Appearance to expand the menu. In the Appearance "
+"section, click Customize. The Customize page will open. "
+msgstr ""
+"No menu lateral esquerdo, clique em \"Aparência\" para expandir as opções. "
+"Depois, clique em \"Personalizar\". A página de personalização será aberta."
+
+#: includes/Admin/Onboarding/Steps/AddLogo.php:24
+msgid ""
+"In the left sidebar, click Site Identity, then click on the Select Site Icon "
+"button. Here, you can upload your brand logo. "
+msgstr ""
+"No menu lateral esquerdo, clique em \"Identidade do Site\"  e depois clique "
+"no botão \"Selecionar ícone do site\". Lá você poderá importar o logo da sua "
+"marca."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:15
+msgid "Create a page describing your services"
+msgstr "Crie uma página para descrever seus serviços"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:17
+msgid "Upload your portfolio projects"
+msgstr "Importar projetos para portfólio"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:19
+#: includes/Admin/Onboarding/Steps/AddPage.php:60
+msgid "Add a new page"
+msgstr "Adicione uma nova página"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:30
+msgid "Give a page a short title such as “Our Services”"
+msgstr "Dê um título curto para a página (exemplo: \"Nossos Serviços\")"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:31
+msgid ""
+"Come up with a clear and concise name for the page that accurately reflects "
+"the services you provide."
+msgstr ""
+"Crie um nome curto e objetivo para a página. Ele deve descrever bem os "
+"serviços que você oferece."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:34
+msgid "Add the content and images that represent your services"
+msgstr "Adicione conteúdo e imagens que representem bem os seus serviços"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:35
+msgid ""
+"Write a brief introduction to your business, provide an overview of your "
+"services with descriptions and benefits, and use relevant images to support "
+"your content. Keep it simple and straightforward."
+msgstr ""
+"Escreva uma breve apresentação sobre seu negócio. Adicione imagens e "
+"descrições mostrando todos os benefícios dos seus produtos. Mantenha a "
+"objetividade e a simplicidade no conteúdo."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:38
+msgid "Finalize the page"
+msgstr "Finalize a página"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:39
+msgid ""
+"Make the page easy to read and navigate by using headings and bullet points. "
+"Include a clear call-to-action (CTA) to encourage visitors to take the next "
+"step for example, to contact you via email or contact form."
+msgstr ""
+"Facilite a leitura e a navegação usando títulos, subtítulos e listas. Inclua "
+"CTAs convidando o público a executar o próximo passo (como preencher um "
+"formulário de contato ou entrar em contato com você)."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:45
+msgid "Create a new page called “My projects”"
+msgstr "Crie uma nova página chamada \"Meus projetos\""
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:46
+msgid ""
+"Give your page a name (e.g. \"My Portfolio\"), then click the \"+\" button "
+"in the editor to add a new block."
+msgstr ""
+"Dê um nome para a página (ex: \"Meu Portfólio\"). Depois, clique no botão "
+"\"+\" para adicionar um novo bloco."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:49
+msgid "Add a gallery block"
+msgstr "Adicione um bloco de galeria"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:50
+msgid ""
+"In the block menu, search for \"Gallery\" and select the Gallery block. "
+"Upload the images you want to showcase in your portfolio, then adjust the "
+"layout and add captions if needed."
+msgstr ""
+"No menu de blocos, procure e selecione a opção \"Galeria\". Importe as "
+"imagens que quiser e, se precisar, ajuste o layout e adicione legendas."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:53
+msgid "Publish your page"
+msgstr "Publicar sua página"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:54
+msgid ""
+"Once you're happy with your portfolio post, click the \"Publish\" button to "
+"make it live on your website. You can add a link to your main navigation "
+"menu or other relevant posts to make it easy for visitors to find."
+msgstr ""
+"Quando você estiver satisfeito com a postagem para o portfólio, clique no "
+"botão \"Publicar\" para adicioná-la ao seu site. Se quiser que os visitantes "
+"encontrem essa postagem mais facilmente, você pode adicionar um link para "
+"esse post no seu menu de navegação principal."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:61
+msgid ""
+"In the left sidebar, find the Pages menu and click on Add New button. You "
+"will see the WordPress page editor. Each paragraph, image, or video in the "
+"WordPress editor is presented as a “block” of content."
+msgstr ""
+"No menu lateral esquerdo, encontre a opção \"Páginas\" e clique no botão "
+"\"Adicionar nova\". Você verá o editor de páginas do WordPress. Cada "
+"parágrafo, imagem ou vídeo adicionado no editor do WordPress será "
+"apresentado como um \"bloco\" de conteúdo."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:64
+msgid "Add a title"
+msgstr "Adicionar título"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:65
+msgid ""
+"Add the title of the page, for example, About. Click the Add Title text to "
+"open the text box where you will add your title. The title of your page "
+"should be descriptive of the information the page will have."
+msgstr ""
+"Dê um título para a página (por exemplo, \"Sobre Nós\" ou \"Nossa História\")"
+". Clique em Adicionar Título para digitar o texto. O título deve descrever o "
+"tipo de informação que o visitante encontrará na página."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:68
+msgid "Add content"
+msgstr "Adicionar conteúdo"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:69
+msgid ""
+"Content can be anything you wish, for example, text, images, videos, tables, "
+"and lots more. Click on a plus sign and choose any block you want to add to "
+"the page."
+msgstr ""
+"Tudo faz parte do conteúdo: textos, imagens, vídeos, tabelas, e muito mais. "
+"Clique no botão\"+\" para escolher o tipo de bloco que deseja adicionar à "
+"sua página."
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:72
+msgid "Publish the page"
+msgstr "Publicar a página"
+
+#: includes/Admin/Onboarding/Steps/AddPage.php:73
+msgid ""
+"Before publishing, you can preview your created page by clicking on the "
+"Preview button. If you are happy with the result, click the Publish button."
+msgstr ""
+"Antes de publicar, você pode visualizar uma prévia da página. É só clicar no "
+"botão \"Prévia\". Se estiver tudo certo, clique em \"Publicar\" para colocar "
+"sua página no ar."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:9
+msgid "Create your first blog post"
+msgstr "Crie sua primeira postagem no blog"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:15
+msgid "Create a catchy headline"
+msgstr "Crie um título atrativo"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:16
+msgid ""
+"Create a headline that grabs your visitors attention and accurately "
+"represents the content of your post."
+msgstr ""
+"Crie um título que chame a atenção dos visitantes e represente bem o "
+"conteúdo do seu post."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:19
+msgid "Draft your post"
+msgstr "Crie o rascunho do post"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:20
+msgid ""
+"Write your content, making sure to include relevant keywords and images. You "
+"can use different blocks to create headings, paragraphs, lists, and other "
+"types of content."
+msgstr ""
+"Escreva seu conteúdo e lembre-se de incluir palavras-chave e imagens "
+"relevantes. Você pode usar diversos tipos de bloco para criar títulos, "
+"parágrafos, listas e diversificar seu conteúdo."
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:23
+msgid "Proofread and publish"
+msgstr "Revisar e publicar"
+
+#: includes/Admin/Onboarding/Steps/AddPost.php:24
+msgid ""
+"Once you have finished drafting your post, read it over to check for errors, "
+"make any necessary revisions, and then publish it to your blog."
+msgstr ""
+"Assim que o rascunho estiver pronto, revise o conteúdo para corrigir "
+"possíveis erros. Depois, publique a postagem no seu blog."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:12
+msgid "Connect Amazon partnership account"
+msgstr "Conectar conta de parceiro da Amazon"
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:18
+msgid "Login to the Amazon Product Advertising dashboard"
+msgstr "Faça login no painel de controle de publicidade de produtos da Amazon"
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:20
+msgid ""
+"To gather the necessary information, log in to your <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">Amazon Product Advertising dashboard</a> "
+"using your personal Amazon partnership account."
+msgstr ""
+"Para reunir as informações necessárias, faça login no <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">Painel de controle de publicidade de "
+"produtos da Amazon</a> usando sua conta pessoal de parceiro da Amazon."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:23
+msgid "Open the Amazon Affiliate plugin configuration"
+msgstr "Abra a configuração do plugin do programa Associados Amazon"
+
+#. translators: %s: link to plugin page
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:25
+msgid ""
+"Fill in the required details on the <a href=\"%s\" class=\"hst-open-"
+"affiliate-tab\">Amazon Affiliate plugin page</a>, where you'll find all the "
+"necessary information about the plugin."
+msgstr ""
+"Forneça todos os detalhes necessários na <a href=\"%s\" class=\"hst-open-"
+"affiliate-tab\">página do plugin do programa Associados Amazon</a>, onde "
+"você pode encontrar todas as informações necessárias sobre o plugin."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:28
+msgid "Copy-Paste the necessary information:"
+msgstr "Copiar e colar as informações necessárias:"
+
+#. translators: %s: link to dashboard
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:30
+msgid ""
+"Complete the form with required information related to Amazon's partnership "
+"API. Retrieve all this information from the <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Amazon Product Advertising dashboard</a> and paste it into "
+"the form."
+msgstr ""
+"Preencha o formulário com as informações necessárias sobre a API de parceria "
+"da Amazon. Acesse todas as informações no <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Painel de controle de publicidade de produtos da Amazon</a> "
+"e utilize esses dados no formulário."
+
+#: includes/Admin/Onboarding/Steps/ConnectAffiliate.php:44
+msgid "Connect Amazon Account"
+msgstr "Conectar Conta da Amazon"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:14
+msgid "Connect your domain"
+msgstr "Conectar seu domínio"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:20
+msgid "Get a domain"
+msgstr "Comprar um domínio"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:24
+msgid "Connect your domain to Hostinger"
+msgstr "Conecte seu domínio à Hostinger"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:28
+msgid "Wait for domain propagation"
+msgstr "Aguarde a propagação do domínio"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:29
+msgid ""
+"Domain propagation can take up to 24 hours. Your domain will propagate "
+"automatically, and you don't need to take any action during this time."
+msgstr ""
+"A propagação de domínio pode levar até 24 horas para ser concluída, Seu "
+"domínio propagará automaticamente, você não precisará fazer nada durante "
+"esse período."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:38
+msgid ""
+"Your website is already published and can be accessed using Hostinger free "
+"temporary subdomain right now. Here is the current URL of your website:"
+msgstr ""
+"Seu site já foi publicado e agora pode ser acessado usando o subdomínio "
+"temporário gratuito da Hostinger. Este é o URL atual do seu site:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:41
+msgid "Website URL"
+msgstr "URL do site"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:45
+msgid ""
+"You need to purchase a domain for your website before the preview domain "
+"becomes inaccessible. Find a desired website name using a"
+msgstr ""
+"É necessário comprar um domínio para seu site antes que o domínio de "
+"visualização se torne inacessível. Encontre um nome de site desejado usando "
+"um"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:46
+msgid "domain name searcher."
+msgstr "pesquisador de nome de domínio."
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:58
+msgid ""
+"You can connect domain to Hostinger by changing the nameservers. Different "
+"domain providers are have unique procedures for changing nameservers. Here "
+"are Hostinger's nameservers:"
+msgstr ""
+"Você pode conectar o domínio à Hostinger alterando os nameservers. "
+"Diferentes provedores de domínio têm seus próprios procedimentos para "
+"alterar os nameservers. Confira a seguir os nameservers da Hostinger:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:62
+msgid "Nameserver 1"
+msgstr "Nameserver 1"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:72
+msgid "Nameserver 2"
+msgstr "Nameserver 2"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:83
+msgid ""
+"Learn how to connect your domain to Hostinger by watching this tutorial on "
+"YouTube for a step-by-step guide:"
+msgstr ""
+"Aprenda como conectar seu domínio à Hostinger assistindo a este tutorial no "
+"YouTube para ter acesso a um guia passo a passo:"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:92
+msgid "How to Point Domain Name to Web Hosting"
+msgstr "Como apontar nome de domínio à hospedagem de site"
+
+#: includes/Admin/Onboarding/Steps/ConnectDomain.php:136
+msgid "Connect domain now"
+msgstr "Conectar domínio agora"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:9
+msgid "Set up your online store"
+msgstr "Configure sua loja online"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:17
+msgid ""
+"Complete this following steps to set up your online store. Don't worry, "
+"WooCommerce will help you to finish the steps."
+msgstr ""
+"Conclua as etapas a seguir para configurar sua loja online. Não se preocupe, "
+"o WooCommerce ajudará você a concluir as etapas."
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:20
+msgid "Add products"
+msgstr "Adicionar produtos"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:23
+msgid "Set up payments"
+msgstr "Configurar pagamentos"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:26
+msgid "Stock management (if needed)"
+msgstr "Gerenciamento de estoque (se necessário)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:29
+msgid "Add tax rates (if needed)"
+msgstr "Adicionar impostos (se necessário)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:32
+msgid "Advertising configuration (if needed)"
+msgstr "Configurações de publicidade (se necessário)"
+
+#: includes/Admin/Onboarding/Steps/SetupStore.php:57
+msgid "Set up store"
+msgstr "Configurar loja"
+
+#: includes/Admin/Views/Onboarding.php:23
+#: includes/Admin/Views/Onboarding.php:306
+msgid "How to Add Your WordPress Website to Google Search Console"
+msgstr "Como adicionar seu site WordPress ao Google Search Console"
+
+#: includes/Admin/Views/Onboarding.php:28
+msgid "How to Create a WordPress Contact Us Page"
+msgstr "Como criar uma página de Contato em um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:33
+msgid "How to Clear Cache in WordPress Website"
+msgstr "Como limpar o cache de um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:38
+msgid "How to Edit the Footer in WordPress"
+msgstr "Como editar o rodapé de um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:43
+msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
+msgstr "LiteSpeed Cache: Como ganhar 100% de otimização no WordPress"
+
+#: includes/Admin/Views/Onboarding.php:48
+msgid "How to Back Up a WordPress Site"
+msgstr "Como fazer o backup de um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:53
+msgid "How to Import Images Into WordPress Website"
+msgstr "Como importar imagens para um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:58
+msgid "How to Set Up WordPress SMTP"
+msgstr "Como configurar o SMTP de um site WordPress"
+
+#: includes/Admin/Views/Onboarding.php:198
+msgid "Got it!"
+msgstr "Entendi!"
+
+#: includes/Admin/Views/Onboarding.php:265
+msgid "Publishing website"
+msgstr "Publicando site"
+
+#: includes/Admin/Views/Onboarding.php:266
+msgid "This can take some time"
+msgstr "Isso pode demorar um pouco"
+
+#: includes/Admin/Views/Onboarding.php:268
+msgid "Close"
+msgstr "Fechar"
+
+#: includes/Admin/Views/Onboarding.php:278
+msgid "WordPress tutorials"
+msgstr "Tutoriais sobre o WordPress"
+
+#: includes/Admin/Views/Onboarding.php:285
+msgid "Hostinger Academy"
+msgstr "Hostinger Brasil"
+
+#: includes/Admin/Views/Onboarding.php:347
+msgid "Knowledge Base"
+msgstr "Base de Conhecimento"
+
+#: includes/Admin/Views/Onboarding.php:348
+msgid "Find the answers you need in our Knowledge Base"
+msgstr "Solucione suas dúvidas com os artigos da nossa Base de Conhecimento"
+
+#: includes/Admin/Views/Onboarding.php:358
+msgid "Help Center"
+msgstr "Ajuda"
+
+#: includes/Admin/Views/Onboarding.php:359
+msgid "Get in touch with our live specialists"
+msgstr "Entre em contato diretamente com nossos especialistas"
+
+#: includes/Admin/Views/Onboarding.php:405
+msgid "Welcome to WordPress!"
+msgstr "Boas-vindas ao WordPress!"
+
+#: includes/Admin/Views/Onboarding.php:406
+msgid "What do you want to do next?"
+msgstr "O que você deseja fazer agora?"
+
+#: includes/Admin/Views/Onboarding.php:411
+msgid ""
+"Congratulations for finishing your hosting set-up and make your website "
+"online! Here are the steps that you can do after setting up your hosting "
+"plan."
+msgstr ""
+"Parabéns por concluir a configuração de sua hospedagem e publicar sue site! "
+"Aqui estão as etapas que você pode seguir após configurar seu plano de "
+"hospedagem."
+
+#: includes/Admin/Views/Onboarding.php:417
+#: includes/Admin/Views/Onboarding.php:463
+msgid "Setup store"
+msgstr "Configurar loja"
+
+#: includes/Admin/Views/Onboarding.php:425
+msgid "Set up my online store"
+msgstr "Configurar minha loja online"
+
+#: includes/Admin/Views/Onboarding.php:425
+msgid "Recommended for you"
+msgstr "Recomendado para você"
+
+#: includes/Admin/Views/Onboarding.php:430
+msgid ""
+"Prepare your online store for success by entering store details, adding "
+"products, and configuring payment methods with the intuitive assistance of "
+"<b>WooCommerce</b>."
+msgstr ""
+"Insira informações da loja, adicione produtos e configure métodos de "
+"pagamento com o assistente intuitivo do <b>WooCommerce</b> e prepare sua "
+"loja para o sucesso online."
+
+#: includes/Admin/Views/Onboarding.php:445
+msgid "Start customization"
+msgstr "Começar a personalização"
+
+#: includes/Admin/Views/Onboarding.php:453
+msgid "Customize my website"
+msgstr "Personalizar meu site"
+
+#: includes/Admin/Views/Onboarding.php:456
+msgid ""
+"Customize the visual and technical aspects of your website – personalize "
+"themes, explore plugins, or preview your website. Don’t worry, we will help "
+"you by giving the step-by-step tutorial to do it."
+msgstr ""
+"Personalize os aspectos visuais e técnicos de seu site : personalize temas, "
+"explore plugins ou visualize seu site. Não se preocupe, nós ajudaremos você "
+"com um tutorial detalhado para fazer isso."
+
+#: includes/Admin/Views/Onboarding.php:469
+msgid "Preview my website"
+msgstr "Visualizar meu site"
+
+#: includes/Admin/Views/GetStarted.php:400
+msgid "hostinger-easy-onboarding"
+msgstr "hostinger-integração-fácil"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:5
+msgid "Invite a Friend, Earn Up to $100"
+msgstr "Convide um amigo e ganhe até US$ 100"
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:9
+msgid ""
+"Share your referral link with friends and family and <b>receive 20% "
+"commission</b> for every successful referral."
+msgstr ""
+"Compartilhe seu link de indicação com amigos e familiares e <b>ganhe 20% de "
+"comissão</b> por cada indicação bem-sucedida."
+
+#: includes/Admin/Views/Partials/PromotionalBanner.php:24
+msgid "Start earning"
+msgstr "Começar a ganhar"
+
+#: includes/Admin/Views/Partials/RateUs.php:2
+msgid "Rate this plugin"
+msgstr "Avalie este plugin"
+
+#: includes/Admin/Views/Partials/RateUs.php:38
+msgid ""
+"on <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
+"post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgstr ""
+"no  <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
+"post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+
+#: includes/Errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr "A ação falhou. Tente novamente ou fale com o suporte."
+
+#: includes/Errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr "Ocorreu um erro inesperado. Tente novamente ou contate o suporte."
+
+#: includes/Errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later, and if the issue "
+"persists, kindly contact our support team for assistance."
+msgstr ""
+"Lamentamos o inconveniente. Houve um erro no servidor durante o processo de "
+"geração de conteúdo com IA. Tente novamente mais tarde e, se o problema "
+"persistir, entre em contato com nossa equipe de suporte para obter ajuda."
+
+#: includes/Errors.php:31
+msgid "Unknown error code."
+msgstr "Código de erro desconhecido."
+
+#: includes/Views/ComingSoon.php:6 includes/Views/ComingSoon.php:25
+msgid "Coming Soon"
+msgstr "Em breve"
+
+#: includes/Admin/Ajax.php:181
+msgid "Congratulations! Your website is online."
+msgstr "Parabéns! Seu site está online."
+
+#: includes/Surveys/Questions.php:20 includes/Surveys/Questions.php:22
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr ""
+"Você tem algum comentário ou sugestão para melhorar nossas ferramentas IA?"
+
+#: includes/Surveys/Questions.php:21
+msgid ""
+"Do you have any comments/suggestions to improve our WooCommerce onboarding?"
+msgstr ""
+"Você tem algum comentário ou sugestão para melhorar nossa integração do "
+"WooCommerce?"
+
+#: includes/Surveys/Surveys.php:351
+msgid "Excellent"
+msgstr "Excelente"
+
+#: includes/Admin/Onboarding/Onboarding.php:76
+msgid "Follow our guided checklist to setup your website"
+msgstr "Siga nosso guia passo-a-passo para configurar seu site"
+
+#: includes/Admin/Views/Onboarding.php:131
+msgid "Go to hPanel"
+msgstr "Ir ao hPanel"
+
+#. Description of the plugin
+msgid "Hostinger WordPress plugin."
+msgstr "Plugin da Hostinger para WordPress."
+
+#: includes/Surveys/Questions.php:23
+msgid "How could we improve the Amazon Affiliate plugin and theme?"
+msgstr "Como podemos melhorar o plugin e o tema de Afiliado da Amazon?"
+
+#: includes/Surveys/Questions.php:16
+msgid "How would you rate your experience publishing Amazon Affiliate links?"
+msgstr ""
+"Como você avalia sua experiência na publicação de links de Afiliados da "
+"Amazon?"
+
+#: includes/Surveys/Questions.php:14
+msgid ""
+"How would you rate your experience setting up a WooCommerce site on our "
+"hosting?"
+msgstr ""
+"Como você avalia sua experiência de configurar um site de WooCommerce em "
+"nossa hospedagem?"
+
+#: includes/Surveys/Questions.php:13
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr ""
+"Como você avalia sua experiência em gerar conteúdo usando nosso plugin de "
+"Assistente com IA? (Escala de 1 a 10)"
+
+#: includes/Surveys/Questions.php:15
+msgid ""
+"How would you rate your experience using our AI content generation tools in "
+"onboarding? (Scale 1-10)"
+msgstr ""
+"Como você avalia sua experiência com o uso de nossas ferramentas de geração "
+"de conteúdo de IA no processo de integração? (Escala de 1 a 10)"
+
+#: includes/Views/ComingSoon.php:26
+msgid "New WordPress website is being built and will be published soon"
+msgstr "Um novo site WordPress está sendo criado e será publicado em breve"
+
+#: includes/Surveys/Surveys.php:307
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/Surveys/Surveys.php:404
+msgid "of "
+msgstr "de"
+
+#: includes/Surveys/Surveys.php:350
+msgid "Poor"
+msgstr "Ruim"
+
+#: includes/Surveys/Surveys.php:308
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/Admin/Onboarding/Onboarding.php:77
+#: includes/Admin/Onboarding/Onboarding.php:79
+msgid "Publish website"
+msgstr "Publicar site"
+
+#: includes/Surveys/Surveys.php:398
+msgid "Question"
+msgstr "Pergunta"
+
+#: includes/Surveys/Surveys.php:338
+msgid "Response required."
+msgstr "Resposta obrigatória."
+
+#: includes/Admin/Onboarding/Onboarding.php:75
+msgid "Set up your website"
+msgstr "Configurando seu site"
+
+#: includes/Surveys/Surveys.php:309
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/Surveys/Surveys.php:287
+msgid "Survey completed"
+msgstr "Pesquisa concluída"
+
+#: includes/Surveys/Surveys.php:310
+msgid "Thank you for completing the survey !"
+msgstr "Agradecemos por dedicar seu tempo a concluir a pesquisa."
